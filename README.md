@@ -1,2 +1,4 @@
-#LearningList  
-Linux Git Markdown
+# LearningList
+Linux  
+Git  
+Markdown  
